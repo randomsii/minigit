@@ -1,0 +1,14 @@
+CREATE demo.txt
+INSERT demo.txt Hello
+INSERT demo.txt World
+READ demo.txt
+INSERT demo.txt !!!
+SNAPSHOT demo.txt 
+UPDATE demo.txt ??? 
+READ demo.txt
+SNAPSHOT demo.txt 
+HISTORY demo.txt
+ROLLBACK demo.txt
+READ demo.txt
+RECENT_FILES 2
+BIGGEST_TREES 1
